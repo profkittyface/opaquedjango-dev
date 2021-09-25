@@ -1,0 +1,16 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/background.gif") no-repeat;
+    -webkit-background-size: cover;
+    -mox-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+background {
+  height: 100px;
+  width: 100px;
+}
